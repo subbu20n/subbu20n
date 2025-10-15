@@ -76,7 +76,7 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 - Fixed critical node errors in simulation  
 - Automated Linux-based setup scripts to reduce environment issues by 20%  
 
----
+--- 
 
 ## 🐍 GitHub Contribution Snake
 
