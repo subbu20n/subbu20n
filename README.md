@@ -94,7 +94,6 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=subbu20n&theme=onedark&no-frame=true&margin-w=5)
 
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
  
