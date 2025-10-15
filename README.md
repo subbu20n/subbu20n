@@ -27,17 +27,10 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 - **Version Control:** Git, GitHub
 - **OS:** Linux , Windows
 - **Artifactory:** Nexus
+- **Databases:** MySQL , Mongodb , Redis, Rabbitmq 
 - **Security & Scanning:** SonarQube , veracode 
-
-**Scripting & Programming:**  
-- Python, Shell Scripting , Bash 
-
-**Other Tools:**  
-<<<<<<< HEAD
-- Linux, JIRA, ServiceNow, YAML, Auto Scaling 
-=======
-- JIRA, ServiceNow, YAML, Auto Scaling   
->>>>>>> dc805ffb575a4d69a3e5b9bdc31f659bbf993f49
+- **Scripting & Programming:**  Python, Shell Scripting , Bash 
+- **Other Tools:**  JIRA, ServiceNow, YAML, Auto Scaling 
 
 ---
 
