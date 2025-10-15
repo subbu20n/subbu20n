@@ -80,10 +80,11 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 
 ## 🐍 GitHub Contribution Snake
 
-https://raw.githubusercontent.com/subbu20n/subbu20n/output/snake.svg
-
-
-<img src="./snake.gif" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
+</picture>
 
 -------  
  # 📊 GitHub Stats:
