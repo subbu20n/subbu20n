@@ -22,15 +22,22 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 - **AWS** (EC2, VPC, S3, RDS, Lambda, IAM, ALB, CloudWatch, Route53, SNS, DynamoDB, SSM)  
 - **Terraform**, **Ansible**, **GitOps (ArgoCD)**  
 - **Kubernetes**, **Docker**, **Helm**  
-- **CI/CD:** Jenkins, GitHub Actions, Maven, Nexus, SonarQube, Veracode  
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  
-- **Version Control:** Git, GitHub  
+- **CI/CD:** Jenkins, GitHub Actions, Maven 
+- **Monitoring & Logging:** Prometheus, Grafana, CloudWatch, ELK Stack (Elasticsearch, Logstash, Kibana)  
+- **Version Control:** Git, GitHub
+- **OS:** Linux , Windows
+- **Artifactory:** Nexus
+- **Security & Scanning:** SonarQube , veracode 
 
 **Scripting & Programming:**  
-- Python, Shell Scripting  
+- Python, Shell Scripting , Bash 
 
 **Other Tools:**  
+<<<<<<< HEAD
 - Linux, JIRA, ServiceNow, YAML, Auto Scaling 
+=======
+- JIRA, ServiceNow, YAML, Auto Scaling   
+>>>>>>> dc805ffb575a4d69a3e5b9bdc31f659bbf993f49
 
 ---
 
