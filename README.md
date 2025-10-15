@@ -30,7 +30,7 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 - Python, Shell Scripting  
 
 **Other Tools:**  
-- Linux, JIRA, ServiceNow, YAML, Auto Scaling, Cloud Cost Optimization  
+- Linux, JIRA, ServiceNow, YAML, Auto Scaling 
 
 ---
 
@@ -69,11 +69,10 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 
 ---
 
- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=subbu20n&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=subbu20n&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subbu20n&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=subbu20n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=subbu20n&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subbu20n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=subbu20n&icon=0&color=0)](https://visitcount.itsvg.in)
