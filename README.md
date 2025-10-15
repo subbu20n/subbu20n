@@ -77,9 +77,11 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 - Automated Linux-based setup scripts to reduce environment issues by 20%  
 
 ---
-### 🐍 GitHub Contribution Snake
+
+## 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/subbu20n/subbu20n/output/snake.svg)
+
 
 -------
  # 📊 GitHub Stats:
