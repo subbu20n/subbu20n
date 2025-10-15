@@ -48,11 +48,11 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 - 🧪 Write clean, reusable **YAML** configurations for Terraform modules, Helm charts, and CI/CD pipelines  
 - 🐧 Use Linux for scripting, server administration, and automating routine tasks  
 
----
+--- 
 
 ## 🏆 Experience Highlights  
 
-### 💻 DevOps Intern — Join DevOps (Feb 2025 – Oct 2025)  
+### 💻 DevOps Intern — Join DevOps (Feb 2025 – Oct 2025)   
 **Tech Stack:** AWS, Terraform, Ansible, Jenkins, GitHub Actions, Docker, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Lambda, Python  
 - Built cloud-native E-Commerce Platform in 5 phases focusing on Infra-as-Code, CI/CD, container orchestration, monitoring, and automation  
 - Reduced manual infra setup time by **80%** using Terraform + Ansible  
@@ -78,3 +78,10 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 [![](https://visitcount.itsvg.in/api?id=subbu20n&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
+---- 
+
+## 🐍 GitHub Contributions Snake
+
+![Snake animation](https://github.com/subbu20n/subbu20n/blob/output/snake.svg)
+
+--
