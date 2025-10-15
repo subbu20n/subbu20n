@@ -80,17 +80,8 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/subbu20n/subbu20n/output/snake.svg)
+https://raw.githubusercontent.com/subbu20n/subbu20n/output/snake.svg
 
-
-
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/subbu20n/subbu20n/output/snake.svg)
-
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/subbu20n/subbu20n/output/snake.svg)
 ------- 
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subbu20n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
