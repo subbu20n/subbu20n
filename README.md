@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Subbarayudu Nandyala  
 **Aspiring DevOps & Cloud Engineer** | AWS | Terraform | Kubernetes | Jenkins | Ansible | Docker | CI/CD | Monitoring 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subbarayudu-nandyala/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subbunandyala48@gmail.com) 
 📍 Hyderabad, India  
-📫 Email: subbunandyala48@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/subbarayudu-nandyala/) | 💻 [GitHub](https://github.com/subbu20n)  
 
 ---
 
@@ -65,4 +65,13 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 
 ---
 
+ 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=subbu20n&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=subbu20n&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subbu20n&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=subbu20n&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
