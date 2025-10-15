@@ -80,6 +80,4 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 ---- 
 
-## 🐍 GitHub Contributions Snake
 
- ![GitHub Contributions Snake](https://raw.githubusercontent.com/subbu20n/subbu20n/main/output/snake.gif)
