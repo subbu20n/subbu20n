@@ -83,7 +83,7 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 ![Snake animation](https://raw.githubusercontent.com/subbu20n/subbu20n/output/snake.svg)
 
 
--------
+------- 
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=subbu20n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=subbu20n&theme=dark&hide_border=false)<br/>
