@@ -82,6 +82,5 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 
 ## 🐍 GitHub Contributions Snake
 
-![Snake animation](https://github.com/subbu20n/subbu20n/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/subbu20n/subbu20n/output/dist/snake.svg)
 
---
