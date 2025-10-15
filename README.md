@@ -1,8 +1,9 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/subbu20n/subbu20n/main/git_banner.png" alt="GitHub Banner" width="800"/>
+    <img src="./assets/git_banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Subbarayudu Nandyala
+
 
 --- 
 
@@ -20,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ---
 
-## 💡 About Me  
+## 💡 About Me   
 I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automation, and building resilient, cost-effective, and scalable systems using modern DevOps tools and practices. My recent work focused on building a Cloud-Native E-Commerce Platform where I implemented CI/CD, Infrastructure as Code, container orchestration, and monitoring solutions on AWS.
 
 ---
