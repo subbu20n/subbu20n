@@ -80,6 +80,7 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" />
 
 </p>
  
