@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/subbu20n/subbu20n/main/assets/git_banner (5).png" alt="GitHub Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/subbu20n/subbu20n/main/assets/git_banner.png" alt="GitHub Banner" width="800"/>
 </div>
 
 
