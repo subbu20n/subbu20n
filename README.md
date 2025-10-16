@@ -78,6 +78,8 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/img/ps_black_64.svg" width="40" />
 </p>
  
 - Built cloud-native E-Commerce Platform in 5 phases focusing on Infra-as-Code, CI/CD, container orchestration, monitoring, and automation  
