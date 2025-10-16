@@ -61,8 +61,25 @@ I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automat
 
 ## 🏆 Experience Highlights  
 
-### 💻 DevOps Intern — Join DevOps (Feb 2025 – Oct 2025)   
-**Tech Stack:** AWS, Terraform, Ansible, Jenkins, GitHub Actions, Docker, Kubernetes, Helm, ArgoCD, Prometheus, Grafana, Lambda, Python  
+### 💻 DevOps Intern — Join DevOps (Feb 2025 – Oct 2025) 
+## 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-%23000A0A.svg?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-%231e1e2e.svg?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+ 
 - Built cloud-native E-Commerce Platform in 5 phases focusing on Infra-as-Code, CI/CD, container orchestration, monitoring, and automation  
 - Reduced manual infra setup time by **80%** using Terraform + Ansible  
 - Reduced Docker image size by **65%** with multi-stage builds  
