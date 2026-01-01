@@ -1,12 +1,3 @@
-# 🤖 SYSTEM ONLINE
-👋 Hi Sir, I am **Subbu**
-Welcome to my GitHub profile! 🚀
-
-![Loud Badge](https://img.shields.io/badge/HELLO-LOUDLY-red?style=for-the-badge&logo=github&logoColor=white)
-
-🎵 [Click here to hear me greet you!](https://raw.githubusercontent.com/subbu20n/voice-greeting/main/hello-subbu.mp3)
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/subbu20n/subbu20n/main/assets/git_banner.png" alt="GitHub Banner" width="800"/>
 </div>
@@ -17,7 +8,7 @@ Welcome to my GitHub profile! 🚀
 
 
 # 👋 Hi, I'm Subbarayudu Nandyala  
-**Aspiring DevOps & Cloud Engineer** | AWS | Terraform | Kubernetes | Jenkins | Ansible | Docker | CI/CD | Monitoring 
+**Aspiring DevOps & Cloud Python Developer** | AWS | Terraform | Kubernetes | Jenkins | Ansible | Docker | CI/CD | Monitoring 
 
 ## 🌐 Socials:
 
