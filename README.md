@@ -1,3 +1,12 @@
+# 🤖 SYSTEM ONLINE
+Hi! I am Subbu 👋
+AWS DevOps & Python Full-Stack Engineer
+Welcome to my GitHub!
+
+![Robot Badge](https://img.shields.io/badge/🤖-Subbu-blue?style=for-the-badge&logo=github&logoColor=white)
+
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/subbu20n/subbu20n/main/assets/git_banner.png" alt="GitHub Banner" width="800"/>
 </div>
