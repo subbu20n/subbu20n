@@ -1,13 +1,8 @@
-# 👋 Hi, I am Subbu
-
-[Click here to hear me greet you!](https://example.com/hello-subbu.mp3)
-
-
-# 🎶 SYSTEM ONLINE 🎶
-# 👋 HI SIR, I AM SUBBU
+# 👋 Hi Sir, I am Subbu
+🤖 SYSTEM ONLINE  
 Welcome to my GitHub profile! 🚀
 
-![Loud Greeting](https://img.shields.io/badge/HELLO-LOUDLY-red?style=for-the-badge&logo=github&logoColor=white)
+🎵 [Click here to hear me greet you!](https://raw.githubusercontent.com/subbu20n/hello-greeting/main/hello-subbu.mp3)
 
 
 <div align="center">
