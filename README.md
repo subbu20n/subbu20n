@@ -1,11 +1,8 @@
-# 🤖 SYSTEM ONLINE
-👋 Hi Sir, I am **Subbu**
-AWS DevOps & Python Full-Stack Engineer  
+# 🎶 SYSTEM ONLINE 🎶
+# 👋 HI SIR, I AM SUBBU
 Welcome to my GitHub profile! 🚀
 
-![Greeting Badge](https://img.shields.io/badge/Hi_Sir-Subbu-blue?style=for-the-badge&logo=github&logoColor=white)
-
----
+![Loud Greeting](https://img.shields.io/badge/HELLO-LOUDLY-red?style=for-the-badge&logo=github&logoColor=white)
 
 
 <div align="center">
