@@ -21,7 +21,7 @@
 ---
 
 ## 💡 About Me   
-I'm an aspiring **DevSecOps Engineer** passionate about cloud computing, automation, and building resilient, cost-effective, and scalable systems using modern DevOps tools and practices. My recent work focused on building a Cloud-Native E-Commerce Platform where I implemented CI/CD, Infrastructure as Code, container orchestration, and monitoring solutions on AWS.
+**DevSecOps Engineer** passionate about cloud computing, automation, and building resilient, cost-effective, and scalable systems using modern DevOps tools and practices. My recent work focused on building a Cloud-Native E-Commerce Platform where I implemented CI/CD, Infrastructure as Code, container orchestration, and monitoring solutions on AWS.
 
 ---
 
