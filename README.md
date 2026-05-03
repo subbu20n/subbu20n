@@ -32,15 +32,15 @@
 - **Terraform**, **Ansible**, **GitOps (ArgoCD)**  
 - **Kubernetes**, **Docker**, **Helm**  
 - **CI/CD:** Jenkins, GitHub Actions, Maven 
-- **Monitoring & Logging:** Prometheus, Grafana, CloudWatch, ELK Stack (Elasticsearch, Logstash, Kibana)  
+- **Monitoring & Logging:** Prometheus, Grafana, Kafka, CloudWatch, ELK Stack (Elasticsearch, Logstash, Kibana)  
 - **Version Control:** Git, GitHub
 - **OS:** Linux , Windows
-- **Artifactory:** Nexus
-- **Databases:** MySQL , Mongodb , Redis, Rabbitmq 
-- **Security & Scanning:** SonarQube , veracode 
-- **Scripting & Programming:**  Python, Shell Scripting , Bash 
+- **Artifactory:** Nexus 
+- **Databases:** MySQL , Mongodb , Redis, Rabbitmq ,SQL
+- **Security & Scanning:** SonarQube , veracode , Dependabot 
+- **Scripting & Programming:**  Python, Shell Scripting , Bash , Javascript , Reactjs , HTML , CSS
 - **Other Tools:**  JIRA, ServiceNow, YAML, Auto Scaling 
-
+ 
 ---
 
 ## 💼 What I Do  
@@ -132,4 +132,19 @@
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
+
+---
+
+<h1 align="center">Hi 👋, I'm Subbu</h1>
+<h3 align="center">🚀 DevSecOps Engineer | Cloud | Security | Automation</h3>
+
+<p align="center">
+  <img src="C:\devops\daws-84s\repos\subbu20n\assets\subbu images.jfif" alt="Subbu" width="150" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/subbu20n">
+    <img src="https://img.shields.io/badge/GitHub-subbu20n-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
