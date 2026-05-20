@@ -13,12 +13,11 @@
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/your-custom-invite)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subbarayudu-nandyala/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subbunandyala48@gmail.com)
 
 
  
----
+--- 
 
 ## 💡 About Me   
 **DevSecOps Engineer** passionate about cloud computing, automation, and building resilient, cost-effective, and scalable systems using modern DevOps tools and practices. My recent work focused on building a Cloud-Native E-Commerce Platform where I implemented CI/CD, Infrastructure as Code, container orchestration, and monitoring solutions on AWS.
