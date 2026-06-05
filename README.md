@@ -8,7 +8,7 @@
 
 
 # 👋 Hi, I'm Subbarayudu Nandyala  
-**DevOps & Cloud Python Developer** | AWS | Terraform | Kubernetes | Jenkins | Ansible | Docker | CI/CD | Github Actions | Monitoring 
+**DevOps & Cloud Python Developer** | AWS | Azure |Terraform | Kubernetes | Jenkins | Ansible | Docker | CI/CD | Github Actions | Azure DevOps | Monitoring 
 
 ## 🌐 Socials:
 
@@ -20,23 +20,24 @@
 --- 
 
 ## 💡 About Me   
-**DevSecOps Engineer** passionate about cloud computing, automation, and building resilient, cost-effective, and scalable systems using modern DevOps tools and practices. My recent work focused on building a Cloud-Native E-Commerce Platform where I implemented CI/CD, Infrastructure as Code, container orchestration, and monitoring solutions on AWS.
+DevOps Engineer with around 3 years of experience in designing, automating, and managing cloud-native infrastructure across AWS and Azure. Strong understanding of DevOps practices including CI/CD automation, infrastructure as code, GitOps, DevSecOps, and Agile delivery methodologies. Skilled in Cloud Platforms, Kubernetes, Docker, Terraform, CI/CD, and Platform Engineering. Experienced in building scalable, secure, and highly available systems using AWS, Azure, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, and ArgoCD. Strong focus on automation, reliability, observability, and cloud cost optimization in production environments.
 
 ---
 
 ## 🧰 Technical Skills  
 
 **Cloud & DevOps Platforms:**  
-- **AWS** (EC2, VPC, S3, RDS, Lambda, IAM, ALB, CloudWatch, Route53, SNS, DynamoDB, SSM)  
+- **AWS** (EC2, VPC, S3, RDS, Lambda, IAM, ALB, CloudWatch, Route53, SNS, DynamoDB, SSM, CloudFront, EBS, EFS)  
+- **Azure**  (Azure Virtual Machines (VMs), VNets, NSGs, Storage Accounts, Application Gateway, Function Apps,   Azure Monitor, Log Analytics, Azure DevOps, AKS, Azure Pipelines, Azure Repos, Azure Boards, Azure Artifacts,  Azure RBAC )
 - **Terraform**, **Ansible**, **GitOps (ArgoCD)**  
 - **Kubernetes**, **Docker**, **Helm**  
 - **CI/CD:** Jenkins, GitHub Actions, Maven 
-- **Monitoring & Logging:** Prometheus, Grafana, Kafka, CloudWatch, ELK Stack (Elasticsearch, Logstash, Kibana)  
+- **Monitoring & Logging:** Prometheus, Grafana, Kafka, CloudWatch, Azure Monitor, ELK Stack (Elasticsearch, Logstash, Kibana),EFK Stack  
 - **Version Control:** Git, GitHub
 - **OS:** Linux , Windows
 - **Artifactory:** Nexus 
 - **Databases:** MySQL , Mongodb , Redis, Rabbitmq ,SQL
-- **Security & Scanning:** SonarQube , veracode , Dependabot 
+- **Security & Scanning:** SonarQube , veracode , Dependabot ,Trivy
 - **Scripting & Programming:**  Python, Shell Scripting , Bash , Javascript , Reactjs , HTML , CSS
 - **Other Tools:**  JIRA, ServiceNow, YAML, Auto Scaling 
  
@@ -65,6 +66,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/>
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
