@@ -61,7 +61,7 @@ DevOps Engineer with around 3 years of experience in designing, automating, and 
 
 ## 🏆 Experience Highlights  
 
-### 💻 DevOps Intern — Join DevOps (Feb 2025 – Oct 2025) 
+### 💻 DevOps Intern — Join DevOps (May 2023 – Oct 2023) 
 ## 🚀 Tech Stack
 
 <p align="left">
@@ -94,7 +94,7 @@ DevOps Engineer with around 3 years of experience in designing, automating, and 
 - Lowered AWS costs by **30%** using Python and Lambda to schedule EC2 shutdown/start  
 - Reduced MTTR by **40%** using Prometheus + Grafana dashboards and alerting  
 
-### 🤖 APSSDC Internship – Robotics & Emerging Tech (Nov 2022 – Mar 2023)  
+### 🤖 APSSDC Internship – Robotics & Emerging Tech (Aug 2022 – Oct 2023)  
 - Improved ROS simulations, reducing validation time by 30%  
 - Fixed critical node errors in simulation  
 - Automated Linux-based setup scripts to reduce environment issues by 20%  
