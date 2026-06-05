@@ -8,7 +8,7 @@
 
 
 # 👋 Hi, I'm Subbarayudu Nandyala  
-**DevOps & Cloud Python Developer** | AWS | Azure |Terraform | Kubernetes | Jenkins | Ansible | Docker | CI/CD | Github Actions | Azure DevOps | Monitoring 
+**DevOps & Cloud Python Developer** | AWS | Azure | Terraform | Kubernetes | Jenkins | Ansible | Docker | CI/CD | Github Actions | Azure DevOps | Monitoring 
 
 ## 🌐 Socials:
 
