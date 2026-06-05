@@ -20,7 +20,7 @@
 --- 
 
 ## 💡 About Me   
-DevOps Engineer with around 3 years of experience in designing, automating, and managing cloud-native infrastructure across AWS and Azure. Strong understanding of DevOps practices including CI/CD automation, infrastructure as code, GitOps, DevSecOps, and Agile delivery methodologies. Skilled in Cloud Platforms, Kubernetes, Docker, Terraform, CI/CD, and Platform Engineering. Experienced in building scalable, secure, and highly available systems using AWS, Azure, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, and ArgoCD. Strong focus on automation, reliability, observability, and cloud cost optimization in production environments.
+DevOps Engineer with experience in designing, automating, and managing cloud-native infrastructure across AWS and Azure. Strong understanding of DevOps practices including CI/CD automation, infrastructure as code, GitOps, DevSecOps, and Agile delivery methodologies. Skilled in Cloud Platforms, Kubernetes, Docker, Terraform, CI/CD, and Platform Engineering. Experienced in building scalable, secure, and highly available systems using AWS, Azure, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, and ArgoCD. Strong focus on automation, reliability, observability, and cloud cost optimization in production environments.
 
 ---
 
