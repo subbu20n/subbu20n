@@ -1,13 +1,13 @@
 <div align="center">
-  <h1>👋 Hi, I'm Hari Krishna Palepu</h1>
-  <p><strong>Software Engineer II – SRE @ JPMorgan Chase</strong></p>
-  <p>🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | Mentor</p>
+  <h1>👋 Hi, I'm Subbarayudu Nandyala</h1>
+  <p><strong>DevOps & Cloud Engineer</strong></p>
+  <p>🚀 Cloud Automation • Infrastructure as Code • CI/CD • Containerization | AWS & Azure | Kubernetes | Terraform | Python</p>
 </div>
 
 ---
 
 ### 📖 About Me
-I'm a passionate DevOps & Site Reliability Engineer (SRE) with over 6 years of experience in building scalable, secure, and highly available cloud platforms. I specialize in automating infrastructure, enabling CI/CD at scale, and ensuring reliability across AWS, Azure, and private cloud environments like GAIA.
+I am a dedicated DevOps & Cloud Engineer with experience designing, automating, and managing cloud-native infrastructure across AWS and Azure. I specialize in building high-availability systems, accelerating software delivery via robust CI/CD engineering, and implementing automated GitOps workflows to eliminate infrastructure friction.
 
 ---
 
@@ -26,7 +26,7 @@ I'm a passionate DevOps & Site Reliability Engineer (SRE) with over 6 years of e
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
@@ -35,43 +35,43 @@ I'm a passionate DevOps & Site Reliability Engineer (SRE) with over 6 years of e
 
 ### 🔧 What I Do
 
-* 🛠️ **Infrastructure as Code:** Build and manage infrastructure on AWS and Azure using Terraform for repeatable, secure provisioning.
-* ☁️ **Private Cloud & Orchestration:** Operate core workloads on GAIA Private Cloud utilizing Kubernetes and Jules for secure deployments.
-* 🚀 **CI/CD at Scale:** Design high-performance pipelines across Azure DevOps, GitHub Actions, Jenkins, and Jules to accelerate application delivery.
-* 🤖 **Automation & Scripting:** Write powerful Linux, Shell, and Python scripts to automate runbooks, eliminate toil, and increase consistency.
-* 🔐 **Cloud Governance & Security:** Enforce strict cloud boundaries using IAM, Azure RBAC, and secure secrets management via Azure Key Vault.
-* 📈 **Observability & Monitoring:** Maintain platform health flags and track telemetry patterns using Splunk, Dynatrace, Prometheus, and CloudWatch.
+* 🛠️ **Infrastructure as Code:** Architect and provision production-ready multi-cloud networks (VPCs, VNets, Subnets, Security Groups) using modular **Terraform**.
+* ☁️ **Container Orchestration:** Deploy and manage microservices environments inside **AWS EKS** and **Azure AKS** utilizing custom **Helm charts** and **ArgoCD (GitOps)**.
+* 🚀 **CI/CD Pipelines:** Design high-velocity delivery pipelines using **Jenkins**, **GitHub Actions**, and **Azure Pipelines** with embedded security gating.
+* 🛡️ **DevSecOps Integration:** Protect cloud estates by configuring RBAC policies and weaving static code analysis (**SonarQube**, **Veracode**) into workflows.
+* 📈 **Observability Ecosystems:** Centralize platform visibility and tracing matrices via **Prometheus**, **Grafana**, **ELK Stack**, and cloud-native monitoring suites.
+* 🤖 **Automation Scripting:** Leverage **Python (Boto3)** and **Bash/Shell** scripting to eliminate platform toil and manage cloud computing overhead efficiently.
 
 ---
 
 ### 💼 Career Snapshot
 
-* 🏢 **JPMorgan Chase** — *Software Engineer II – SRE*
-  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD pipelines and platform observability strategy across critical financial environments.
-* 🏢 **Presidio** — *Senior DevOps Engineer*
-  Led enterprise cloud automation initiatives using Terraform, Docker, and GitHub Actions on AWS, resulting in a **40% reduction** in deployment lifecycle timelines.
-* 🏢 **CGI** — *Systems Engineer*
-  Architected secure environments across AWS & Azure. Authored multi-environment IaC configuration profiles and modernized internal application uptime.
-* 🏢 **Avineon** — *GIS Engineer*
-  Developed complex spatial mapping solutions. Provided 24/7 technical monitoring infrastructure and verified system data validation workflows.
+* 🏢 **Honeywell** — *DevOps Engineer*
+  Designed and engineered secure hybrid multi-cloud infrastructure patterns spanning AWS and Azure. Engineered production Kubernetes cluster isolations and integrated metrics management layers to speed up issue isolation response cycles by **30%**.
+* 🏢 **Join DevOps** — *AWS DevOps Intern*
+  Architected a full, highly available 3-tier E-Commerce engine infrastructure. Crafted automation architectures utilizing Python (Boto3) and AWS Lambda that stripped development environment costs by **30%**.
+* 🏢 **V Cube Software Solutions** — *DevOps Intern*
+  Automated base Linux operating environment bootstrapping sequences using custom scripting libraries. Provisioned dynamic networks with Terraform, shrinking image footprint standards by **65%** via multi-stage Docker orchestration.
+* 🏢 **APSSDC** — *Automation Intern*
+  Validated system workflow dependencies across automated environments. Standardized workspace setup playbooks, decreasing infrastructure configuration deployment faults by **20%**.
 
 ---
 
 ### 🚀 Featured Repositories
 
-* 🛠️ **[Jenkins_User-CI](https://github.com/Haripalepu/Jenkins_User-CI)** — End-to-end Jenkins CI/CD setup utilizing shared libraries, Terraform, and Ansible for catalog microservices.
-* 📜 **[Shell_Scripts](https://github.com/Haripalepu/Shell_Scripts)** — Collection of foundational automation scripts featuring structured loops, functional arrays, and error handling.
-* 🛒 **[Roboshop_Shellscripts](https://github.com/Haripalepu/Roboshop_Shellscripts)** — Native Linux automation logic designed to completely configure and package the RoboShop microservices ecosystem.
-* ⚙️ **[Ansible](https://github.com/Haripalepu/Ansible)** — Reusable Ansible playbooks handling configuration templates, dynamic variables, and Ansible Vault systems.
+* ☸️ **[k8s-roboshop](https://github.com/subbu20n/k8s-roboshop)** — Production-grade Kubernetes orchestration profiles designed to securely manage a complex, multi-tiered 11-component e-commerce architecture.
+* 🤖 **[azure-pipelines-voting-app](https://github.com/subbu20n/azure-pipelines-voting-app)** — End-to-end multi-stage continuous delivery pipeline engine powered by Azure DevOps and Azure Container Registry.
+* 📜 **[shell-scripting-automation](https://github.com/subbu20n/shell-scripting-automation)** — Central operational library housing custom utility scripts, advanced logging mechanics, and error handling for Linux administration tasks.
+* ⚙️ **[ansible-infrastructure-playbooks](https://github.com/subbu20n/ansible-infrastructure-playbooks)** — Scalable Ansible playbooks driving automatic platform configurations, multi-tier deployments, and secure secret vaults.
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haripalepu/Haripalepu/main/assets/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haripalepu/Haripalepu/main/assets/snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Haripalepu/Haripalepu/main/assets/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/subbu20n/snake/output/snake.svg" />
 </picture>
 
 ---
@@ -79,17 +79,17 @@ I'm a passionate DevOps & Site Reliability Engineer (SRE) with over 6 years of e
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haripalepu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Hari's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripalepu&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subbu20n&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Subbu's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subbu20n&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haripalepu&theme=onedark&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subbu20n&theme=onedark&no-frame=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <div align="center">
-  <p>🤝 <b>Connect with me:</b> <a href="https://linkedin.com/in/haripalepu">LinkedIn</a> | <a href="https://medium.com/@hareepalepu">Medium</a></p>
-  <img src="https://visitcount.itsvg.in/api?id=Haripalepu&icon=0&color=0" alt="Visitor Count" />
+  <p>🤝 <b>Connect with me:</b> <a href="https://www.linkedin.com/in/subbarayudu-nandyala">LinkedIn</a> | <a href="mailto:subbunandyala48@gmail.com">Email</a></p>
+  <img src="https://visitcount.itsvg.in/api?id=subbu20n&icon=0&color=0" alt="Visitor Count" />
 </div>
