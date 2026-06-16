@@ -9,10 +9,13 @@
 
 ## 🌐 Socials:
 
+<p>
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/your-custom-invite)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subbunandyala48@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subbarayudu-nandyala)
 
+</p>
 --- 
 
 ## 💡 About Me   
