@@ -7,16 +7,13 @@
 # 👋 Hi, I'm Subbarayudu Nandyala  
 **DevOps & Cloud Python Developer** | AWS | Azure | Terraform | Kubernetes | Jenkins | Ansible | Docker | CI/CD | Github Actions | Azure DevOps | Monitoring 
 
-## 🌐 Socials:
+## 🌐 Socials
 
-<p>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/your-custom-invite)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subbunandyala48@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subbarayudu-nandyala)
-
+<p align="left">
+  <a href="https://discord.gg/your-custom-invite" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:subbunandyala48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/subbarayudu-nandyala" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
---- 
 
 ## 💡 About Me   
 DevOps Engineer with experience in designing, automating, and managing cloud-native infrastructure across AWS and Azure. Strong understanding of DevOps practices including CI/CD automation, infrastructure as code, GitOps, DevSecOps, and Agile delivery methodologies. Skilled in Cloud Platforms, Kubernetes, Docker, Terraform, CI/CD, and Platform Engineering. Experienced in building scalable, secure, and highly available systems using AWS, Azure, Kubernetes, Jenkins, GitHub Actions, Azure DevOps, and ArgoCD. Strong focus on automation, reliability, observability, and cloud cost optimization in production environments.
