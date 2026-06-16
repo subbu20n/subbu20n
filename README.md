@@ -22,7 +22,8 @@ DevOps Engineer with experience in designing, automating, and managing cloud-nat
 
 ## 🧰 Technical Skills  
 
-**Cloud & DevOps Platforms:** - **AWS** (EC2, VPC, S3, RDS, Lambda, IAM, ALB, CloudWatch, Route53, SNS, DynamoDB, SSM, CloudFront, EBS, EFS)  
+**Cloud & DevOps Platforms:** 
+- **AWS** (EC2, VPC, S3, RDS, Lambda, IAM, ALB, CloudWatch, Route53, SNS, DynamoDB, SSM, CloudFront, EBS, EFS)  
 - **Azure** (Azure Virtual Machines (VMs), VNets, NSGs, Storage Accounts, Application Gateway, Function Apps, Azure Monitor, Log Analytics, Azure DevOps, AKS, Azure Pipelines, Azure Repos, Azure Boards, Azure Artifacts, Azure RBAC)
 - **Terraform**, **Ansible**, **GitOps (ArgoCD)** - **Kubernetes**, **Docker**, **Helm** - **CI/CD:** Jenkins, GitHub Actions, Azure Pipelines, Maven 
 - **Monitoring & Logging:** Prometheus, Grafana, Kafka, CloudWatch, Azure Monitor, ELK Stack (Elasticsearch, Logstash, Kibana), EFK Stack  
